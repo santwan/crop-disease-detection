@@ -51,7 +51,7 @@ A deep learning-based web solution to identify plant leaf diseases from images u
 
 ## 📊 Performance Metrics
 
-- **Training Accuracy**: 100%
+- **Training Accuracy**: 87.33%
 - **Validation Accuracy**: 93.23%
 - *(Add your training/validation loss plot or confusion matrix here if available)*
 
